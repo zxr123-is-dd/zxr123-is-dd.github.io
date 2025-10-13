@@ -10,3 +10,6 @@ autocmd BufNewfile *.cpp 0r ~/Documents/cp/template.cpp
 nnoremap <F5> :w<CR>:!g++ -std=c++14 -O2 -Wall -Wextra % -o %:r && ./%:r < in<CR>
 nnoremap <F6> : !./%:r < in<CR>
 ```
+
+## codeforces rating
+![](https://cfrating.baoshuo.dev/rating?username=zxr123)
