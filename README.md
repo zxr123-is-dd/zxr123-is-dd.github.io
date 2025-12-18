@@ -16,4 +16,4 @@ nnoremap <F6> : !./%:r < in<CR>
 
 ## Learning OpenGL...
 
-: )
+![The newbie OpenGL project :)](https://github.com/zxr123-is-dd/Project1forOpenGLLearning)
